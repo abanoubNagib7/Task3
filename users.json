@@ -1,0 +1,22 @@
+{
+    "users":[
+        {
+            "id":1,
+            "name":"Abanoub",
+            "age":24
+        },
+        {
+            "id":2,
+            "name":"Osama",
+            "age":20
+        },
+        {
+            "id":3,
+            "name":"Mohamed",
+            "age":17
+        }
+    ],
+    "posts":[
+        {"id":1,"body":"Sit sed justo eos stet et erat vero ea amet. Labore est eirmod et no et accusam diam. Ea gubergren."}
+    ]
+}
